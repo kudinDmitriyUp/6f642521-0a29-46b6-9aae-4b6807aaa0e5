@@ -54,7 +54,7 @@ export default function LandingPage() {
 
       <div id="about" data-section="about">
         <SplitAbout
-          title="Welcome to Alpine Luxury"
+          title="Hello World!"
           description="Nestled in the pristine Swiss Alps, our hotel represents the pinnacle of luxury hospitality. With over 50 years of heritage, we combine traditional Swiss charm with contemporary elegance."
           tag="Our Heritage"
           tagIcon={Award}
@@ -82,7 +82,7 @@ export default function LandingPage() {
               icon: Utensils
             }
           ]}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764063848418-sp5zriof.jpg"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1764096893138-kirletpx.jpg"
           imageAlt="Alpine Luxury Hotel exterior"
           buttons={[
             { text: "Discover More", href: "amenities" }
